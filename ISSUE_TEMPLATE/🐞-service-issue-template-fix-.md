@@ -3,8 +3,6 @@ name: "\U0001F41E Service issue template(fix)"
 about: fix 이슈 템플릿
 title: "\U0001F41E[Fix] "
 labels: fix
-assignees: ImTakGyun
-
 ---
 
 📌 Issue
