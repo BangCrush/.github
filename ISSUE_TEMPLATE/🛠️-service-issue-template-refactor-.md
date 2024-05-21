@@ -3,8 +3,6 @@ name: "\U0001F6E0️ Service issue template(refactor)"
 about: refactor 이슈 템플릿
 title: "\U0001F6E0️[Refactor] "
 labels: refactor
-assignees: ImTakGyun
-
 ---
 
 📌 Issue
