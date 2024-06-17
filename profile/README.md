@@ -103,7 +103,7 @@
     <tr align="center">
         <td><B>남우현</B></td>
         <td><B>양채연</B></td>
-        <td><B>임태규</B></td>
+        <td><B>임태규</B>$\oldstyle{\tiny{(팀장)}}$</td>
         <td><B>박소연</B></td>
         <td><B>임은상</B></td>
         <td><B>한원희</B></td>
